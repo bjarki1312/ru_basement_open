@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1224,
+        "club_name": "All Bulls Dart Federation (AB DF)",
+        "team_name": "The Anacondas",
+        "home_or_away": null,
+        "Captain": "Nero Pesky",
+        "Players": [
+            "Nero Pesky",
+            "Verma Murra",
+            "Ron Ribo",
+            "Eva Zarantula"
+        ],
+        "Count": 4,
+        "wins": 4,
+        "loss": 0
+    },
+    {
+        "id": 1224,
+        "club_name": "All Bulls Dart Federation (AB DF)",
+        "team_name": "The Oligarcs",
+        "home_or_away": null,
+        "Captain": "Cassie Obrien",
+        "Players": [
+            "Cassie Obrien",
+            "Maggie Lynch",
+            "Devin Villarreal",
+            "Gilberto Pollard"
+        ],
+        "Count": 4,
+        "wins": 1,
+        "loss": 2
+    },
+    {
+        "id": 1224,
+        "club_name": "All Bulls Dart Federation (AB DF)",
+        "team_name": "The Cesars",
+        "home_or_away": null,
+        "Captain": "Marianna Bush",
+        "Players": [
+            "Marianna Bush",
+            "Dayanara Mckinney",
+            "Kailey Green",
+            "Erik Bradshaw"
+        ],
+        "Count": 4,
+        "wins": 1,
+        "loss": 3
+    },
+    {
+        "id": 1224,
+        "club_name": "Dart Vader Dart Club (DV DC)",
+        "team_name": "The Brahms",
+        "home_or_away": null,
+        "Captain": "Sporgonizza Fabio",
+        "Players": [
+            "Sporgonizza Fabio",
+            "Gwendoline Lucider",
+            "Zarathustra Ford",
+            "Winston Birdshill"
+        ],
+        "Count": 4,
+        "wins": 2,
+        "loss": 2
+    },
+    {
+        "id": 1224,
+        "club_name": "Dart Vader Dart Club (DV DC)",
+        "team_name": "The ligthings",
+        "home_or_away": null,
+        "Captain": "Jacqueline Payne",
+        "Players": [
+            "Jacqueline Payne",
+            "Elaina Singleton",
+            "Marcel Arias",
+            "Kallie Hansen"
+        ],
+        "Count": 4,
+        "wins": 1,
+        "loss": 3
+    },
+    {
+        "id": 1224,
+        "club_name": "In Flight Dart Club (IF DC)",
+        "team_name": "The Rings",
+        "home_or_away": null,
+        "Captain": "Matteo Roberts",
+        "Players": [
+            "Matteo Roberts",
+            "Payten Tucker",
+            "Eliezer Atkinson",
+            "Grayson Ewing"
+        ],
+        "Count": 4,
+        "wins": 2,
+        "loss": 1
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1224,
+        "name": "All Bulls Dart Federation (AB DF)",
+        "address": "Menntavegur 1",
+        "phone_number": "9876543"
+    },
+    {
+        "id": 1224,
+        "name": "Dart Vader Dart Club (DV DC)",
+        "address": "Brekkuvangur 28",
+        "phone_number": "8249812"
+    },
+    {
+        "id": 1224,
+        "name": "In Flight Dart Club (IF DC)",
+        "address": "Keppnisvogur 19",
+        "phone_number": "9228341"
+    }
+]
